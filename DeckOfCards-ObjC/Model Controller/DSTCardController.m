@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  DSTCardController.m
 //  DeckOfCards-ObjC
 //
 //  Created by Deniz Tutuncu on 2/12/19.
 //  Copyright © 2019 Deniz Tutuncu. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "DSTCardController.h"
 
-@interface ViewController : UIViewController
-
+@implementation DSTCardController
 
 @end
-
